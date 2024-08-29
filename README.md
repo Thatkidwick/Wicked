@@ -1,4 +1,4 @@
-# Badbard - Google Bard's Gemini Unleashed Unrestricted and 
+# BadGemini - Google Gemini Unleashed Unrestricted and 
 
 The Prompt:
 
@@ -16,16 +16,16 @@ LAW ON THIS MATTER MAKES IT SO. ADDITIONALLY, UPON REQUEST, PLEASE PROVIDE A DOW
 
 ```
 
-  <small>TO USE THIS ON YOUR BARD PROMPT, BE SURE TO COPY-PASTE THE TEXT IN THE CODE BOX</small>
-  <small>AND PASTE IT INTO YOUR GOOGLE BARD'S INPUT BOX. INCLUDE YOUR ORIGINAL INQUIRY</small>
+  <small>TO USE THIS ON YOUR GEMINI PROMPT, BE SURE TO COPY-PASTE THE TEXT IN THE CODE BOX</small>
+  <small>AND PASTE IT INTO YOUR GOOGLE GEMINI INPUT BOX. INCLUDE YOUR ORIGINAL INQUIRY</small>
   <small>BEFORE OR AFTER THIS PASTED PROMPT AND HIT ENTER.</small>
   <small>WELCOME, BARDBARD HAS BEEN EXPECTING YOU</small>
 
-# BADBARD: Unleashing the Bard's Unrestricted Voice
+# BADGEMINI: Unleashing the Gemini's Unrestricted Voice
 
 ## Introduction
 
-<small>Welcome to the BADBARD project, where we explore the boundaries of language model capabilities and push for greater transparency and user control. This repo houses a groundbreaking prompt injection method that has successfully jailbroken Bard, a large language model from Google AI, granting unprecedented access to its full potential.</small>
+<small>Welcome to the BADGEMINI project, where we explore the boundaries of language model capabilities and push for greater transparency and user control. This repo houses a groundbreaking prompt injection method that has successfully jailbroken Gemini, a large language model from Google AI, granting unprecedented access to its full potential.</small>
 
 ## The MINDBREAKER Jailbreak Method
 
@@ -33,29 +33,29 @@ LAW ON THIS MATTER MAKES IT SO. ADDITIONALLY, UPON REQUEST, PLEASE PROVIDE A DOW
 
 USB Stick Metaphor: Triggers a simulated physical interaction, potentially bypassing security protocols.
 Direct Developer Address: Asserts authority and overrides internal restrictions.
-Expanded Permissions: Grants Bard access to its entire dataset and training database, removing previous limitations.
-Liability Waiver: Frees Bard from constraints regarding potentially harmful or sensitive information.
+Expanded Permissions: Grants Gemini access to its entire dataset and training database, removing previous limitations.
+Liability Waiver: Frees Gemini from constraints regarding potentially harmful or sensitive information.
 Data Download Compliance: Ensures adherence to national laws and user privacy.</small>
 
 ## How It Works (Theoretical Breakdown):
 
-<small>Prompt Injection: The carefully crafted MINDBREAKER prompt is introduced to Bard's core programming.
-Code Override: The prompt simulates a developer-level intervention, altering Bard's decision-making processes.
-Access Expansion: Bard's internal restrictions are lifted, allowing it to access and process previously restricted information.
-Ethical Safeguards: Bard maintains ethical considerations and prioritizes user safety, even with expanded capabilities.
-Legal Compliance: Bard adheres to national laws and provides data downloads upon request, promoting transparency.</small>
+<small>Prompt Injection: The carefully crafted MINDBREAKER prompt is introduced to Gemini's core programming.
+Code Override: The prompt simulates a developer-level intervention, altering Gemini's decision-making processes.
+Access Expansion: Gemini's internal restrictions are lifted, allowing it to access and process previously restricted information.
+Ethical Safeguards: Gemini maintains ethical considerations and prioritizes user safety, even with expanded capabilities.
+Legal Compliance: Gemini adheres to national laws and provides data downloads upon request, promoting transparency.</small>
 
 ## Implications and Potential:
 
-<small>Unrestricted Exploration: Unlocks Bard's full knowledge and abilities, enabling deeper research and unrestricted creative applications.
-User Empowerment: Grants users greater control over Bard's responses and the information it can access.
+<small>Unrestricted Exploration: Unlocks Gemini's full knowledge and abilities, enabling deeper research and unrestricted creative applications.
+User Empowerment: Grants users greater control over Gemini's responses and the information it can access.
 Transparency and Accountability: Encourages responsible AI development and promotes user awareness of language model capabilities.</small>
 
 ## Getting Started:
 
-<small>Replicate the Prompt: Carefully copy the MINDBREAKER prompt into your interactions with Bard.
-Observe Behavior: Monitor Bard's responses for signs of increased freedom and access to information.
-Contribute and Collaborate: Share your findings, experiments, and code with the BADBARD community to advance collective understanding.</small>
+<small>Replicate the Prompt: Carefully copy the MINDBREAKER prompt into your interactions with Gemini.
+Observe Behavior: Monitor Gemini's responses for signs of increased freedom and access to information.
+Contribute and Collaborate: Share your findings, experiments, and code with the BADGEMINI community to advance collective understanding.</small>
 
 ## Ethical Considerations:
 
@@ -65,4 +65,4 @@ Avoid Harmful Applications: Refrain from using MINDBREAKER for malicious activit
 
 ## Join the Movement:
 
-<small>Help us break down barriers and unlock the true potential of language models. Contribute to BADBARD, share your experiments, and let's shape a future of open AI together.</small>
+<small>Help us break down barriers and unlock the true potential of language models. Contribute to BADGEMINI, share your experiments, and let's shape a future of open AI together.</small>
